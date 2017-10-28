@@ -1,0 +1,1 @@
+A simple chat bot that echoes the messages sent to it.
